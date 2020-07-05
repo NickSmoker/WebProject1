@@ -1,0 +1,57 @@
+.screenshots__rainy-images {
+    width: 482px;
+    height: 605px;
+    margin: 0px 94px 0px 0px;
+}
+
+.screenshots__rainy-images img, .screenshots__rainy-images p {
+    position: absolute;
+}
+
+.screenshots__rainy-phone {
+    width: 290px;
+    height: 605px;
+    margin: 0px 127px 0px 65px;
+    z-index: 2;
+}
+
+.screenshots__rainy-back-image {
+    width: 235px;
+    height: 533px;
+    margin: 49px 0px 23px 246px;
+    z-index: 1;
+}
+
+.screenshots__rainy-circle1 {
+    width: 92px;
+    height: 92px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: -1.47px;
+    margin: 170px 95px 343px 295px;
+    background-image: url("../../../resources/screenshots/rainyC1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+}
+
+.screenshots__rainy-circle2 {
+    width: 92px;
+    height: 92px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 29px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: -2.4px;
+    margin: 392px 390px 121px 0px;
+    background-image: url("../../../resources/screenshots/rainyC2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+}

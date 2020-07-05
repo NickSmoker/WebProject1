@@ -1,0 +1,26 @@
+.features-title {
+    width: 343px;
+    height: 75px;
+    margin: 0px 399px 129px 413px;
+}
+
+.features__title-main {
+    width: 343px;
+    height: 27px;
+    color: #648cff;
+    font-family: Ubuntu;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px 0px 30px 0px;
+}
+
+.features__title-second {
+    width: 122px;
+    height: 18px;
+    color: #999999;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0px 113px 0px 108px;
+}

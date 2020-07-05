@@ -1,0 +1,29 @@
+.description {
+    position: absolute;
+	width: 480px;
+	height: 220px;
+	margin: 299px 1066px 440px 380px;
+	z-index: 2;
+}
+
+.description__title {
+	width: 478px;
+    height: 130px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0px 0px 42px 0px;
+}
+
+.description__main-text {
+	width: 387px;
+    height: 48px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+	line-height: 30px;
+	margin: 42px 92px 0px 1px;
+	word-wrap: break-word;
+}

@@ -1,0 +1,25 @@
+.absolute-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2067px;
+    height: 7446px;
+}
+
+.absolute-bg img {
+    position: absolute;
+}
+
+.absolute-bg__background {
+    width: 2067px;
+    height: 7446px;
+    z-index: -3;
+}
+
+.absolute-bg__lines {
+    width: 1576px;
+    height: 7221px;
+    margin: 89px 243px 136px 248px;
+    z-index: -1;
+}
+

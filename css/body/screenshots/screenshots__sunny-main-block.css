@@ -1,0 +1,39 @@
+.screenshots__sunny-main-block {
+    width: 457px;
+    height: 394px;
+    margin: 126px 174px 110px 0px;
+}
+
+.screenshots__sunny-text-image {
+    width: 62px;
+    height: 62px;
+    margin: 0px 391px 49px 1px;
+}
+
+.screenshots__sunny-title {
+    width: 268px;
+    height: 27px;
+    color: #648cff;
+    font-family: Ubuntu;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px 186px 36px 1px;
+}
+
+.screenshots__sunny-text {
+    width: 453px;
+    height: 96px;
+    color: #353854;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    margin: 0px 0px 42px 4px;
+}
+
+.screenshots__circles_sunny {
+    width: 173px;
+    height: 82px;
+    margin: 0px 284px 0px 0px;
+}

@@ -1,0 +1,77 @@
+.circles {
+    position: absolute;
+    width: 552px;
+    height: 547px;
+    margin: 288px 436px 124px 932px;
+    z-index: 2;
+}
+
+.circles__temperature {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    color: #6ca3ff;
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 59px;
+    background-image: url("../../resources/white_circle1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px 57px 489px 436px;
+    padding-left: 6px;
+}
+
+.circles__london {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 90px;
+    text-transform: uppercase;
+    letter-spacing: -0.8px;
+    text-align: center;
+    background-image: url("../../resources/blue_circle.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 183px 0px 274px 462px;
+}
+
+.circles__sunny {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 90px;
+    text-transform: uppercase;
+    letter-spacing: -0.9px;
+    text-align: center;
+    background-image: url("../../resources/orange_circle.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 211px 462px 246px 0px;
+}
+
+.circles__rio {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    color: #648cff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 56px;
+    text-transform: uppercase;
+    text-align: center;
+    background-image: url("../../resources/yellow_circle.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 491px 39px 0px 457px;
+}

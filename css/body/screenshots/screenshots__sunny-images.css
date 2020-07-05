@@ -1,0 +1,57 @@
+.screenshots__sunny-images {
+    width: 455px;
+    height: 630px;
+    margin: 0px 0px 0px 0px;
+}
+
+.screenshots__sunny-images img, .screenshots__sunny-images p {
+    position: absolute;
+}
+
+.screenshots__sunny-phone {
+    width: 290px;
+    height: 605px;
+    margin: 37px 116px 58px 68px;
+    z-index: 2;
+}
+
+.screenshots__sunny-back-image {
+    width: 231px;
+    height: 623px;
+    margin: 0px 0px 0px 226px;
+    z-index: 1;
+}
+
+.screenshots__sunny-circle1 {
+    width: 92px;
+    height: 92px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: -1.47px;
+    margin: 205px 78px 403px 304px;
+    background-image: url("../../../resources/screenshots/sunnyC1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+}
+
+.screenshots__sunny-circle2 {
+    width: 92px;
+    height: 92px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 29px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: -2.4px;
+    margin: 414px 382px 194px 0px;
+    background-image: url("../../../resources/screenshots/sunnyC2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+}

@@ -1,0 +1,25 @@
+.features__item-box {
+    width: 1155px;
+    height: 124px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.features__usability-img {
+    padding: 0px 19px 62px 0px;
+    width: 80px;
+    height: 62px;
+}
+
+.features__parallax-img {
+    padding: 0px 20px 62px 45px;
+    width: 78px;
+    height: 62px;
+}
+
+.features__unlimities-img {
+    padding: 0px 22px 62px 46px;
+    width: 77px;
+    height: 62px;
+}

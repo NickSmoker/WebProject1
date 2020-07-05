@@ -1,0 +1,13 @@
+.scroll-down-button {
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    margin: 845px 936px 65px 935px;
+    border: none;
+    background-image: url("../../resources/white_circle1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: #5c83f3;
+    z-index: 2;
+}

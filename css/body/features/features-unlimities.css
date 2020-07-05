@@ -1,0 +1,21 @@
+.features-unlimities {
+    width: 355px;
+    height: 124px;
+}
+
+.features__unlimities-title {
+    padding: 0px  68px 28px 2px;
+    color: #353854;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.features__unlimities-text {
+    color: #aeaeae;
+    font-family: Ubuntu;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}

@@ -1,0 +1,39 @@
+.footer__menu {
+    width: 542px;
+    height: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-menu__home {
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+}
+
+.footer-menu__features {
+    color: #b5b5c8;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+}
+
+.footer-menu__reviews {
+    color: #b5b5c8;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+}
+
+.footer-menu__download {
+    color: #b5b5c8;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+}

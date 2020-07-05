@@ -1,0 +1,8 @@
+.footer__nav{
+    position: absolute;
+    width: 1167px;
+    height: 26px;
+    margin: 98px 396px 248px 379px;
+    display: flex;
+    justify-content: space-between;
+}

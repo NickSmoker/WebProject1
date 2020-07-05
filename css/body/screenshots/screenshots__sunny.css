@@ -1,0 +1,7 @@
+.screenshots__sunny {
+    width: 1086px;
+    height: 630px;
+    margin: 0px 0px 272px 0px;
+    display: flex;
+    flex-direction: row-reverse;
+}

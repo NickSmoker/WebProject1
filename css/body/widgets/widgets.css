@@ -1,0 +1,9 @@
+.widgets {
+    width: 881px;
+    height: 775px;
+    padding: 0px 496px 55px 491px;
+}
+
+.widgets img {
+    position: absolute;
+}

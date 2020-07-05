@@ -1,0 +1,57 @@
+.screenshots__cloudy-images {
+    width: 474px;
+    height: 700px;
+}
+
+.screenshots__cloudy-images img,
+.screenshots__cloudy-images p {
+    position: absolute;
+}
+
+.screenshots__cloudy-phone {
+    width: 290px;
+    height: 605px;
+    margin: 37px 116px 58px 68px;
+    z-index: 2;
+}
+
+.screenshots__cloudy-back-image {
+    width: 248px;
+    height: 700px;
+    margin: 0px 0px 0px 226px;
+    z-index: 1;
+}
+
+.screenshots__cloudy-circle1 {
+    width: 92px;
+    height: 92px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: -1.47px;
+    margin: 205px 78px 403px 304px;
+    background-image: url("../../../resources/screenshots/cloudyC1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+}
+
+.screenshots__cloudy-circle2 {
+    width: 92px;
+    height: 92px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 29px;
+    font-weight: 700;
+    line-height: 92px;
+    letter-spacing: -2.4px;
+    margin: 414px 382px 194px 0px;
+    background-image: url("../../../resources/screenshots/cloudyC2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 2;
+}

@@ -1,0 +1,35 @@
+.top-section {
+	width: 1926px;
+	height: 959px;
+	margin-left: 74px;
+	margin-right: 73px;
+	z-index: 2;
+}
+
+.top-section img {
+	position: absolute;
+}
+
+.top-section__wave1 {
+	width: 1926px;
+	height: 383px;
+	opacity: 0.54;
+	margin-top: 576px;
+}
+
+.top-section__wave2 {
+	width: 1926px;
+	height: 411px;
+	margin-top: 548px;
+}
+
+.top-section__phone-image {
+	width: 290px;
+	height: 605px;
+	margin: 204px 570px 150px 1060px;
+}
+
+.top-section__background {
+	width: 1926px;
+	height: 959px;
+}

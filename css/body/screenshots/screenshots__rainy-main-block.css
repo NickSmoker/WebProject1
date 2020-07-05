@@ -1,0 +1,39 @@
+.screenshots__rainy-main-block {
+    width: 457px;
+    height: 393px;
+    margin: 70px 0px 142px 0px;
+}
+
+.screenshots__rainy-text-image {
+    width: 137px;
+    height: 63px;
+    margin: 0px 316px 47px 1px;
+}
+
+.screenshots__rainy-title {
+    width: 284px;
+    height: 26px;
+    color: #648cff;
+    font-family: Ubuntu;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px 170px 37px 3px;
+}
+
+.screenshots__rainy-text {
+    width: 453px;
+    height: 96px;
+    color: #353854;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    margin: 0px 0px 42px 4px;
+}
+
+.screenshots__circles_rainy {
+    width: 173px;
+    height: 82px;
+    margin: 0px 284px 0px 0px;
+}

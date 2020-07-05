@@ -1,0 +1,66 @@
+nav {
+	position: absolute;
+	width: 1167px;
+	height: 26px;
+	display: flex;
+	flex-direction: row;
+	margin: 33px 376px 900px 383px;
+	z-index: 2;
+}
+
+.header-menu {
+    width: 542px;
+    height: 14px;
+    display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 6px;
+	margin-bottom: 7px;
+	margin-right: 151px;
+	margin-left: 157px;
+	color: #e1e1e1;
+	font-family: Ubuntu;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+}
+
+.header-menu__home {
+	color: #ffffff;
+}
+
+.header__logo-text {
+	width: 175px;
+    height: 18px;
+    color: #ffffff;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-weight: 700;
+	text-transform: uppercase;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.social-links {
+	width: 142px;
+	height: 26px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.social-links__facebook {
+	width: 12px;
+    height: 26px;
+	background-image: url("../../resources/facebook.png");
+}
+.social-links__instagram {
+	width: 26px;
+    height: 26px;
+	background-image: url("../../resources/instagram.png");
+}
+.social-links__twitter {
+	width: 27px;
+    height: 21px;
+	background-image: url("../../resources/twitter.png");
+}

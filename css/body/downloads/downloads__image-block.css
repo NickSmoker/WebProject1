@@ -1,0 +1,29 @@
+.downloads__image-block {
+    position: absolute;
+    width: 716px;
+    height: 399px;
+    margin: 63px 255px 0px 996px;
+}
+
+.downloads__image-block img {
+    position: absolute;
+}
+
+.downloads__cloudy {
+    width: 313px;
+    height: 337px;
+    margin: 62px 403px 0px 0px;
+}
+
+.downloads__sunny {
+    width: 290px;
+    height: 399px;
+    margin: 0px 204px 0px 222px;
+    z-index: 1;
+}
+
+.downloads__rainy {
+    width: 313px;
+    height: 337px;
+    margin: 62px 0px 0px 403px;
+}
